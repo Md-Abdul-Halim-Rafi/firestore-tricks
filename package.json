@@ -1,0 +1,29 @@
+{
+  "name": "firestore-tricks",
+  "version": "1.0.0",
+  "description": "Firebase firestore tip and tricks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-Abdul-Halim-Rafi/firestore-tricks.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "firebase-admin"
+  ],
+  "author": "Md-Abdul-Halim-Rafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-Abdul-Halim-Rafi/firestore-tricks/issues"
+  },
+  "homepage": "https://github.com/Md-Abdul-Halim-Rafi/firestore-tricks#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "ora": "^6.0.1"
+  }
+}
